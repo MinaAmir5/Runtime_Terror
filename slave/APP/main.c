@@ -18,7 +18,6 @@
 #include "WDT_Interface.h"
 #include "AT24C16A_Interface.h"
 #include "SPI_Interface.h"
-#include "UART_Interface.h"
 
 void A_EXT_INT0_Execution(void);
 void A_Timer0_Execution(void);
